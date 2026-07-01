@@ -1,4 +1,5 @@
 ## Hi there 👋
+18 Year old Software Developer at Sint Lucas with a focus on Front-end web development.
 
 ## Tools I use
 
