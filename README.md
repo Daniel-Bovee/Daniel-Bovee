@@ -6,10 +6,10 @@
 
 ## Contact me
 
-<a href="https://www.linkedin.com/in/daniel-bovee-247b61299/" target="_blank">
+<a href="https://www.linkedin.com/in/daniel-bovee-247b61299/" target="_blank" rel="noopener noreferrer">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:d.bovee@sintlucasedu.nl" target="_blank">
+<a href="mailto:d.bovee@sintlucasedu.nl" target="_blank"rel="noopener noreferrer">
   <img alt="Outlook" src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
 </a>
 
